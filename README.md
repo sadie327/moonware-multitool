@@ -25,6 +25,12 @@ Why Should We Use It?
 - Very Good For Beginners.
 - Includes src and compiled to exe!
 Educational Purposes only!
+---------------------------------------------------------------------------------------------
+How do you use it?
+
+First open command prompt inside the folder and type -r pip install requirements.txt
+Then close the cmd and drag the dll ontop of main and run it and enjoy!
+
 
 ![image](https://github.com/user-attachments/assets/e0ae453a-56ea-4f4c-bab8-f44e9c200cd5)
 
