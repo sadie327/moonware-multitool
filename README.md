@@ -20,8 +20,8 @@ What Can We Do With It?
  BruteForce SSH ports.
 
 Why Should We Use It?
-Made In Python.
-Easy To Use!
-Very Good For Beginners.
+- Made In Python.
+- Easy To Use!
+- Very Good For Beginners.
 - Includes src and compiled to exe!
 Educational Purposes only!
